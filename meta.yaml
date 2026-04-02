@@ -1,0 +1,4 @@
+name: script-evidence-scan
+description: Declarative workflow for extracting evidence from browser-loaded scripts via get_all_scripts and get_script_source.
+author: vmoranv
+source_repo: https://github.com/vmoranv/jshook_workflow_script_evidence_scan
